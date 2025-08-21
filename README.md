@@ -1,3 +1,3 @@
 # Corto 8 
-Diego Valdez
-Joaquin Campos
+## Diego Valdez
+## Joaquin Campos
